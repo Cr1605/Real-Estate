@@ -1,38 +1,38 @@
 [
   {
     "name": "Aliva Priva Jardin",
-    "price": "47,043",
-    "detail": "Jakarta Garden City Street, Cakung. Pulo Gadung, Jakarta Timur, DKI Jakarta",
+    "price": "1000",
+    "detail": "61 Nguyen Minh Chau Street. Hoa Hai Ward, Ngu Hanh Son District, Da Nang City",
     "image": "./r1.png"
   },
   {
     "name": "Asatti Garden City",
-    "price": "66,353",
-    "detail": "Pahlawan Street XVII No.215, Cinangka, Sawangan, Depok, Jawa Barat",
+    "price": "2000",
+    "detail": "62 Nguyen Minh Chau Street, Hoa Hai Ward, Ngu Hanh Son District, Da Nang City",
     "image": "./r2.png"
   },
   {
     "name": "Citralan Puri Serang",
-    "price": "35,853",
-    "detail": "Ruko Puri Indah Residence Block A7, Lingkar Street, Ciracas, Serang, Banten",
+    "price": "2000",
+    "detail": "63 Nguyen Minh Chau Street, Hoa Hai Ward, Ngu Hanh Son District, Da Nang City",
     "image": "./r3.png"
   },
   {
     "name": "Aliva Priva Jardin",
-    "price": "47,043",
-    "detail": "Jakarta Garden City Street, Cakung. Pulo Gadung, Jakarta Timur, DKI Jakarta",
+    "price": "1500",
+    "detail": "64 Nguyen Minh Chau Street. Hoa Hai Ward, Ngu Hanh Son District, Da Nang City",
     "image": "./r1.png"
   },
   {
     "name": "Asatti Garden City",
-    "price": "66,353",
-    "detail": "Pahlawan Street XVII No.215, Cinangka, Sawangan, Depok, Jawa Barat",
+    "price": "2000",
+    "detail": "65 Nguyen Minh Chau Street, Hoa Hai Ward, Ngu Hanh Son District, Da Nang City",
     "image": "./r2.png"
   },
   {
     "name": "Citralan Puri Serang",
-    "price": "35,853",
-    "detail": "Ruko Puri Indah Residence Block A7, Lingkar Street, Ciracas, Serang, Banten",
+    "price": "1000",
+    "detail": "66 Nguyen Minh Chau Street, Hoa Hai Ward, Ngu Hanh Son District, Da Nang City",
     "image": "./r3.png"
   }
 ]

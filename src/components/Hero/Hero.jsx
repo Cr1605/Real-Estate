@@ -37,8 +37,8 @@ const Hero = () => {
                     <div className='flexCenter stats'>
                         <div className="flexColCenter stat">
                             <span>
-                                <CountUp start={8800} end={9000} duration={4} />
-                                <span>+</span>
+                                <CountUp start={4880} end={5000} duration={4} />
+                                <span> +</span>
                             </span>
                             <span className='secondaryText'>Premium Product</span>
                         </div>
@@ -46,15 +46,15 @@ const Hero = () => {
                         <div className="flexColCenter stat">
                             <span>
                                 <CountUp start={1950} end={2000} duration={4} />
-                                <span>+</span>
+                                <span> +</span>
                             </span>
                             <span className='secondaryText'>Happy Customer</span>
                         </div>
 
                         <div className="flexColCenter stat">
                             <span>
-                                <CountUp start={20} end={28} duration={4} />
-                                <span>+</span>
+                                <CountUp start={20} end={30} duration={4} />
+                                <span> +</span>
                             </span>
                             <span className='secondaryText'>Awards Winning</span>
                         </div>
